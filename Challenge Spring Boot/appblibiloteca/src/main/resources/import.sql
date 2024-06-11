@@ -1,0 +1,8 @@
+INSERT INTO tbl_libros (titulo, autor, isbn, idioma, numDesc) VALUES ('El señor de los anillos', 'J. R. R. Tolkien.', '978-84-376-0494-6', 'Ingles,español,frances, chino mandarín, italiano', '8.83');
+INSERT INTO tbl_libros (titulo, autor, isbn, idioma, numDesc) VALUES ('Harry Potter y el prisionero de azkaban', 'J.K. Rowling', '978-84-9838-604-4', 'Ingles,español,portugues,frances,italiano', '8.49');
+INSERT INTO tbl_libros (titulo, autor, isbn, idioma, numDesc) VALUES ('Don Quijote de la Mancha', 'Miguel de Cervantes', '978-84-670-3180-7', 'Ingles,español,ruso,frances', '7.95');
+INSERT INTO tbl_libros (titulo, autor, isbn, idioma, numDesc) VALUES ('El principito', 'Antoine de Saint-Exupéry', '978-3-16-148410-0', 'Ingles,español,portugues,frances', '6.42');
+INSERT INTO tbl_libros (titulo, autor, isbn, idioma, numDesc) VALUES ('El retrato de Dorian Gray', 'Oscar Wilde', '978-0-452-28423-4', 'Ingles,español,frances,chino mandarín', '7.14');
+INSERT INTO tbl_libros (titulo, autor, isbn, idioma, numDesc) VALUES ('Orgullo y prejuicio', 'Jane Austen', '978-1-85326-000-2','Ingles,español,italiano,frances', '8.21');
+INSERT INTO tbl_libros (titulo, autor, isbn, idioma, numDesc) VALUES ('Crepusculo', 'Stephenie Meyer.', '978-84-204-0277-6', 'Ingles,español,chino mandarín,frances', '1.56');
+INSERT INTO tbl_libros (titulo, autor, isbn, idioma, numDesc) VALUES ('Cien años de soledad', 'Gabriel García Márquez', '978-8-49-181378-4', 'Ingles,español,portugues,italiano', '8.96');
